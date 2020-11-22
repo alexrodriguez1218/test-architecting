@@ -5,8 +5,8 @@ _A continuación se expone los componentes empleados_
 
 # Componentes
 
-_✔ **Azure DNS**: Servidor en donde alojamos el dominio DNS de la aplicación._
-_✔ **WAF**: Servicio de firewall de aplicaciones web (WAF), provee una capa de seguridad a la aplicación._
+*_✔ **Azure DNS**: Servidor en donde alojamos el dominio DNS de la aplicación._
+*_✔ **WAF**: Servicio de firewall de aplicaciones web (WAF), provee una capa de seguridad a la aplicación._
 _✔ **Azure load balancer**: Se refiere a la distribución uniformemente la tráfico de red entrante a los servidores de la aplicación._
 _✔ **NSG**: Network Security Groups, es un firewall o grupo de seguridad de red en donde se establecen reglas que permite o deniega el trafico de red entrate a los diferentes recursos_
 _✔ **Nginx**: Máquina virtual (VM) liviana con características de administración, alta disponibilidad y balanceo de carga y aumenta rendimiento, confiabilidad, seguridad y escala. _

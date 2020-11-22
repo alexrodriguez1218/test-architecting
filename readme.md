@@ -1,6 +1,6 @@
 # Diagrama de arquitectura de proyecto 3 niveles
 
-_Se procede a realizar el diagrama de despliegue sobre Microsoft Azure, la capacity planning tendrá lugar una vez se establezca los servicios que empleará la aplicación y alcance poblacional. _
+_Se procede a realizar el diagrama de despliegue sobre Microsoft Azure, la capacity planning tendrá lugar una vez se establezca los servicios que empleará la aplicación y alcance poblacional_
 _A continuación se expone los componentes empleados_
 
 # Componentes
